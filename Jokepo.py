@@ -1,6 +1,7 @@
 import random
 #print(random.randint(10,50))
 
+
 while True:
 
     pergunta1 = int(input("""Com quem deseja jogar: 
